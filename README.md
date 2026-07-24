@@ -66,7 +66,7 @@ React and TypeScript product catalogue with filtering, sorting, favourites and p
     alt="Mariana's GitHub stats"
   />
   <img
-    width="48%"
+    width="43%"
     src="https://mariana-github-stats.vercel.app/api/top-langs/?username=Mariana8l8&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
     alt="Mariana's most used languages"
   />
