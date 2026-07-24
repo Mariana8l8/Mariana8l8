@@ -27,59 +27,9 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-
-  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cs" width="48" title="C#" />
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/.NET" target="_blank">
-    <img src="https://skillicons.dev/icons?i=dotnet" width="48" title=".NET" />
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/React_(software)" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" width="48" title="React" />
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/TypeScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript" />
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" />
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" width="48" title="HTML" />
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS" />
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" width="48" title="PostgreSQL" />
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL" />
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Git" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" width="48" title="Git" />
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub" />
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio" target="_blank">
-    <img src="https://skillicons.dev/icons?i=visualstudio" width="48" title="Visual Studio" />
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" width="48" title="Visual Studio Code" />
-  </a>
-
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://skillicons.dev/icons?i=cs" width="48" title="C#" /></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/.NET"><img src="https://skillicons.dev/icons?i=dotnet" width="48" title=".NET" /></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/React_(software)"><img src="https://skillicons.dev/icons?i=react" width="48" title="React" /></a>
 </p>
 
 ---
