@@ -29,7 +29,17 @@
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://skillicons.dev/icons?i=cs" width="48" title="C#" /></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/.NET"><img src="https://skillicons.dev/icons?i=dotnet" width="48" title=".NET" /></a>&nbsp;
-  <a href="https://en.wikipedia.org/wiki/React_(software)"><img src="https://skillicons.dev/icons?i=react" width="48" title="React" /></a>
+  <a href="https://en.wikipedia.org/wiki/React_(software)"><img src="https://skillicons.dev/icons?i=react" width="48" title="React" /></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript" /></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" /></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://skillicons.dev/icons?i=html" width="48" title="HTML5" /></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3" /></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="48" title="PostgreSQL" /></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL" /></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Git"><img src="https://skillicons.dev/icons?i=git" width="48" title="Git" /></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub" /></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio"><img src="https://skillicons.dev/icons?i=visualstudio" width="48" title="Visual Studio" /></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" title="Visual Studio Code" /></a>
 </p>
 
 ---
