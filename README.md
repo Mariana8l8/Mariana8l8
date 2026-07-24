@@ -57,6 +57,24 @@ React and TypeScript product catalogue with filtering, sorting, favourites and p
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="170"
+    src="https://mariana-github-stats.vercel.app/api?username=Mariana8l8&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Mariana's GitHub stats"
+  />
+
+  <img
+    height="170"
+    src="https://mariana-github-stats.vercel.app/api/top-langs/?username=Mariana8l8&layout=compact&theme=github_dark&hide_border=true"
+    alt="Mariana's most used languages"
+  />
+</p>
+
+---
+
 ## 🔥 Contribution Streak
 
 <p align="center">
