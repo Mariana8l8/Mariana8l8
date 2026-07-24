@@ -57,22 +57,6 @@ React and TypeScript product catalogue with filtering, sorting, favourites and p
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Mariana8l8&show_icons=true&theme=github_dark&hide_border=true"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana8l8&layout=compact&theme=github_dark&hide_border=true"
-  />
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
