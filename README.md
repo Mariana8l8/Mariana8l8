@@ -17,7 +17,7 @@
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/mariana-roman-44484a3a5/](https://www.linkedin.com/in/mariana-roman-fullstack/)">
+  <a href="https://www.linkedin.com/in/mariana-roman-fullstack/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
