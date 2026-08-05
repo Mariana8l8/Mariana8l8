@@ -78,13 +78,3 @@ React and TypeScript product catalogue with filtering, sorting, favourites and p
     alt="Mariana's most used languages"
   />
 </p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Mariana8l8&theme=github-dark-blue&hide_border=true"
-  />
-</p>
