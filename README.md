@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mariana Roman 👩‍💻</h1>
 
 <h3 align="center">
-  Junior Full-Stack .NET Developer
+  Full-Stack Software Engineer at Infosoft
 </h3>
 
 <p align="center">
